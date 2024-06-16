@@ -13,7 +13,7 @@
 | Member2     |     Turner Ashley      |
 | Member2     |   nasht2@illinois.edu  |
 | Member3     |     Schwenk, Li        |
-| Member3     |  Sckwenk4@illinois.edu |
+| Member3     |  schwenk4@illinois.edu |
 
 ## Project Information
 
